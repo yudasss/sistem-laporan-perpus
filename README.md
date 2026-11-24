@@ -5,7 +5,7 @@ Aplikasi web berbasis **Laravel** untuk mengelola pelaporan inventaris koleksi b
 ## Identitas Pengembang
 - **Nama:** Yuda Prima
 - **NIM:** 231011400727
-- **Kelas:** 05TPLP017
+- **Kelas:** 07TPLP017
 - **Program Studi:** Teknik Informatika — Universitas Pamulang
 
 ## Fitur Utama
