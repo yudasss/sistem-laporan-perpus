@@ -11,4 +11,6 @@ Route::prefix('perpus-laporan')->group(function () {
     Route::get('/', [LaporanPerpusController::class, 'index']);
     Route::get('/pdf', [LaporanPerpusController::class, 'exportPdf']);
     Route::get('/excel', [LaporanPerpusController::class, 'exportExcel']);
+    Route::get('/kontak', function () {
+    return view('perpus_kontak');
 });
